@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+  }
+
+  a{
+    margin-top: 40%;
+    text-decoration: none;
+    color: #353535;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  a:hover{
+    color: white;
+  }
+h1{
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+p{
+  color: white;
+}
+nav{
+  margin-top:40px;
+}
+
+nav a {
+  margin-right: 32px;
+
+}
+nav img{
+  margin-left: 42px;
+  margin-bottom: -11px;
+  padding-right:32px;
+}
